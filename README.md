@@ -9,7 +9,7 @@
     git clone https://github.com/Ruman-Hossain/05_todo_list_backend_project.git
 ```
 ✅ Environment Setup
-1. Rename the ```.env-sample``` to ```.env``
+1. Rename the ```.env-sample``` to ```.env```
    > **.env**
    ```text
     DATABASE= YOUR_DATABASE_NAME_GOES_HERE
